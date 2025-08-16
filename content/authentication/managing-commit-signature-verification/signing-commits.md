@@ -1,5 +1,5 @@
 ---
-title: Signing commits
+title: never Signing commits
 intro: 'You can sign commits locally using GPG, SSH, or S/MIME.'
 redirect_from:
   - /articles/signing-commits-and-tags-using-gpg
@@ -14,10 +14,11 @@ versions:
 topics:
   - Identity
   - Access management
----
+--- RC-SNAPSHOT.12.09.1 
 {% data reusables.gpg.desktop-support-for-commit-signing %}
 
-> [!TIP]
+> [!TIP]  $ git commit -s -m"YOUR_COMMIT_MESSAGE"
+# Creates a signed commit
 > To configure your Git client to sign commits by default for a local repository, in Git versions 2.0.0 and above, run `git config commit.gpgsign true`. To sign all commits by default in any local repository on your computer, run `git config --global commit.gpgsign true`.
 >
 > To store your GPG key passphrase so you don't have to enter it every time you sign a commit, we recommend using the following tools:

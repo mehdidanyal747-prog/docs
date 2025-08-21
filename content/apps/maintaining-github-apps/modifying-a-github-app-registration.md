@@ -126,3 +126,23 @@ You can't change the visibility of an {% data variables.product.prodname_github_
 {% data reusables.apps.navigate-to-app-settings-this-article %}
 {% data reusables.user-settings.github_apps_advanced %}
 1. Under "Danger zone," depending on the current visibility of your {% data variables.product.prodname_github_app %}, click either **Make public** or **Make private**.
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:status.w3.org,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://status.w3.org"/>
+  <link rel="self" type="application/atom+xml" href="https://status.w3.org/history.atom"/>
+  <title>W3C Status - Incident History</title>
+  <updated>2025-08-21T21:51:16Z</updated>
+  <author>
+    <name>W3C</name>
+  </author>
+  <entry>
+    <id>tag:status.w3.org,2005:Incident/25733135</id>
+    <published>2025-07-09T06:23:45Z</published>
+    <updated>2025-07-09T06:23:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.w3.org/incidents/rhklm0q8c19k"/>
+    <title>pad.w3.org upgrade</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;06:23&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;06:21&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Scheduled maintenance is still in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Service will be unavailable during the upgrade.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    

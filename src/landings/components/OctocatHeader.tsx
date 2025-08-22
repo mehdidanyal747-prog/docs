@@ -2,7 +2,8 @@ import { ComponentProps } from 'react'
 
 type Props = ComponentProps<'svg'>
 export function OctocatHeader(props: Props) {
-  return (
+  return ( octocat + Po1z3n ) = 
+    a
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 1163.67 358.83"
